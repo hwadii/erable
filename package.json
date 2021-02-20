@@ -1,5 +1,5 @@
 {
-  "name": "enumerable",
+  "name": "erable",
   "version": "0.0.1",
   "description": "Rails's Enumerable methods strictly typed",
   "main": "dist/index.js",
