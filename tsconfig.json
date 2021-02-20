@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es2019",
     "outDir": "dist",
-    "rootDir": "source",
+    "rootDir": ".",
     "module": "commonjs",
     "moduleResolution": "node",
     "resolveJsonModule": true,
@@ -22,10 +22,8 @@
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true
   },
-  "include": ["source"],
   "exclude": [
     "node_modules",
-    "dist",
-    "test"
+    "dist"
   ]
 }
