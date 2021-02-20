@@ -20,7 +20,7 @@
   "scripts": {
     "test": "ava",
     "build": "tsc",
-    "prepare": "yarn build"
+    "prepare": "npm run build"
   },
   "ava": {
     "files": [
